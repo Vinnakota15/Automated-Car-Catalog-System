@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-09-26 16:59:48">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description/>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</manager>
+<name>showroom</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-26 16:57:04</sys_created_on>
+<sys_id>a2258428c3d8fa10633d971d050131d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-26 16:57:04</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>
